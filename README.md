@@ -1,9 +1,24 @@
 # PopnPanel
+
 Vector graphics Pop'n Music panel design for DIY enthusiasts
+
+## Preview
+
+### Type A
+
+![Type A](https://github.com/CrazyRedMachine/PopnPanel/blob/master/preview/PopnMusic-TypeA.png?raw=true)
+
+### Type B
+
+![Type B](https://github.com/CrazyRedMachine/PopnPanel/blob/master/preview/PopnMusic-TypeB.png?raw=true)
+
+### Type K (KONAMI Official Controller)
+
+![Type K](https://github.com/CrazyRedMachine/PopnPanel/blob/master/preview/PopnMusic-TypeK.png?raw=true)
 
 ## Dimensions
 
-Refer to `dimensions.png` or `dimensions-overlay.png` for buttons and spacing. It is common to both designs.
+Refer to `dimensions.png` or `dimensions-overlay.png` for buttons and spacing. It is common to all designs.
 
 ## Bounding box
 
