@@ -4,6 +4,8 @@ Vector graphics Pop'n Music panel design for DIY enthusiasts
 
 ## Preview
 
+**Note** Below are LOW QUALITY preview renders, please either take 300dpi renders from the `render-300dpi` folder or export your own from the svg.
+
 ### Type A
 
 ![Type A](https://github.com/CrazyRedMachine/PopnPanel/blob/master/preview/PopnMusic-TypeA.png?raw=true)
