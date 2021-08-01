@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=WT735CX4UMZ9U)
+
 # PopnPanel
 
 Vector graphics Pop'n Music panel design for DIY enthusiasts
@@ -47,3 +49,14 @@ Panel depth (from top view) :
 - cabinet total width is `25+1+748+1+25 = 800mm` (colored side + gap + center part + gap + colored side).
 - panel total depth, from player to cab monitor is `35+280+25 = 340mm` (top view: bottom margin + design + top margin).
 - the front part of the panel has a fillet (edge is rounded). The fillet edge has a radius of about `30mm`.
+
+
+## Donation
+
+If this project helps you and you want to give back, you can help me with my future projects.
+
+While not necessary, donations are much appreciated and will only go towards funding future github projects (arcade hardware ain't cheap :( ).
+
+Of course you'll also receive my gratitude and I'll remember you if you post a feature request ;)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=WT735CX4UMZ9U)
