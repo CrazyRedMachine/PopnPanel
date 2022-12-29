@@ -8,8 +8,6 @@ There is a fullsize (100mm) and a mini (60mm) version.
 
 ## Preview
 
-**Note** Below are LOW QUALITY preview renders, please either take 300dpi renders from the `300dpi-renders` folder or export your own from the svg.
-
 ### Fullsize (using 100mm buttons)
 
 ![Fullsize-preview](https://github.com/CrazyRedMachine/PopnPanel/blob/master/DIY_CONTROLLERS/preview-100.png?raw=true)
