@@ -2,7 +2,7 @@
 
 # PopnPanel
 
-Vector graphics Pop'n Music panel design for DIY enthusiasts
+Vector graphics Pop'n Music panel design and CAD files for DIY enthusiasts
 
 ## Preview
 
@@ -24,7 +24,11 @@ Vector graphics Pop'n Music panel design for DIY enthusiasts
 
 Refer to `dimensions.png` or `dimensions-overlay.png` for buttons and spacing. It is common to all designs.
 
-## Bounding box
+## Build your own controller
+
+If you wish to build an ASC, maybe you'll appreciate [this](https://github.com/CrazyRedMachine/PopnPanel/tree/master/DIY_CONTROLLERS/)
+
+## Appendix: Arcade accurate dimensions
 
 Of course when building an ASC, the bounding box can be the size of your choice, but if you wanna go with the arcade size here is some additional information.
 
